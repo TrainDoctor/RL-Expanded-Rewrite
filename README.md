@@ -24,8 +24,6 @@ This branch is equivalent to the ``master`` branches seen in legacy git projects
 Any branch with a new feature that is being worked on by more than 1 developer  
 at one time that is too be integrated into the project will have a seperate branch in this repo.
 
----
-
 ## Pull Requests
 All pull requests will be merged against ``develop``.  
 All requests to this repo will be treated as one of the below.

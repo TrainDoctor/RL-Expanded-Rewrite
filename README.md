@@ -14,19 +14,20 @@ All other contributions will come from forks of this repo and merged into the re
 
 ## Branches
 
-### release
+### ``release``
 This branch will have each major tagged release version (taken from develop).
 
-### develop
-This branch is equivalent to the "master" branches seen in legacy git projects.
+### ``develop``
+This branch is equivalent to the ``master`` branches seen in legacy git projects.
 
-### [feature name]
+### ``featurename``
 Any branch with a new feature that is being worked on by more than 1 developer  
 at one time that is too be integrated into the project will have a seperate branch in this repo.
 
 ---
 
 ## Pull Requests
+All pull requests will be merged against ``develop``.  
 All requests to this repo will be treated as one of the below.
 ### Addition
 An addition of code to the repo, this includes an addition of a new feature, systems etc.  
